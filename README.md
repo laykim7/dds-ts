@@ -1,2 +1,2 @@
-# duru-ts
-Durutronix.co - Event TimingSystem / Copyright. 2020. IBS & Durutronix. All rights reserved.
+# dds-ts
+dandansys - Event TimingSystem / Copyright. 2020. IBS. All rights reserved.
